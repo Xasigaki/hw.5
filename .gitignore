@@ -1,0 +1,9 @@
+       .idea/
+        __pycache__/
+        config.py
+        db.sqlite
+        db/
+        handlers/
+        images/
+        main.py
+        venv/
